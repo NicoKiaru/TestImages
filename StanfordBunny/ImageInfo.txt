@@ -1,0 +1,1 @@
+Downsized version (0.25x) of the CT scan of the Stanford bunny with noise added. 
