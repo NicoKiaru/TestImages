@@ -1,0 +1,5 @@
+Details of a Hela Cell ER acquired by FIB-SEM.
+Author : Vincent Mercier
+Institution : University of Geneva / Aurélien Roux lab
+XY pixel size : 4.13 nm
+Z slice spacing : 5 nm

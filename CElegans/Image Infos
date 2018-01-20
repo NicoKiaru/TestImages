@@ -1,4 +1,4 @@
-Time point 19 of the sample data provided here:
+Original dataset:
 https://loci.wisc.edu/sample-data/dub
 
 
@@ -8,6 +8,9 @@ Department: Health Center
 Institution: University of Connecticut-Farmington
 Dimensions (pixels): 768 x 512
 8 bits per sample
-Time point 19 of 85 timepoint
+- Timepoint 19 of 85 timepoint (dub19 file)
+- Timepoints 1 to 20 of the dataset (original dataset has 85 timepoints)
 33 focal planes
+
+
 
